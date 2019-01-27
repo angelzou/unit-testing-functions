@@ -1,0 +1,22 @@
+{
+  "name": "unit-testing-functions",
+  "version": "1.0.0",
+  "description": "jest demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "cover": "jest --coverage"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "angelzou",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.6.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^23.6.0",
+    "regenerator-runtime": "^0.13.1"
+  }
+}
